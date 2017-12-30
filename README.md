@@ -5,5 +5,5 @@
     * hahaha 
     * `我們家網路一直斷掉`
     * 嗷嗷人
-    * ![hahaha](https://github.com/nccudrink/drinkmenu/blob/master/hahaha.jpg)
+    * ![hahaha](https://github.com/nccudrink/drinkmenu/blob/master/haha.jpg)
 
