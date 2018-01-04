@@ -155,10 +155,10 @@ public class DataCollector {
 		Menu a24 = new Menu("露易莎","https://nccudrink.github.io/drinkmenu/menu/%E9%9C%B2%E6%98%93%E8%8E%8E%E8%8F%9C%E5%96%AE.html");
 		
 		Menu b01 = new Menu("Baronesse","https://nccudrink.github.io/drinkmenu/menu/Baronesse%E8%8F%9C%E5%96%AE.html");
-//		Menu b02 = new Menu("","");
-//		Menu b03 = new Menu("","");
-//		Menu b04 = new Menu("","");
-//		Menu b05 = new Menu("","");
+		Menu b02 = new Menu("","");
+		Menu b03 = new Menu("","");
+		Menu b04 = new Menu("","");
+		Menu b05 = new Menu("","");
 		
 		mstore.add(a01);mstore.add(a02);mstore.add(a03);mstore.add(a04);mstore.add(a05);
 		mstore.add(a06);mstore.add(a07);mstore.add(a08);mstore.add(a09);mstore.add(a10);
