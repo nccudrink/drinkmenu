@@ -1,0 +1,49 @@
+		Menu a01 = new Menu("8+9","https://nccudrink.github.io/drinkmenu/menu/8%2B9%E8%8F%9C%E5%96%AE.html");
+		Menu a02 = new Menu("50´P","https://nccudrink.github.io/drinkmenu/menu/50%E5%B5%90%E8%8F%9C%E5%96%AE.html");
+		Menu a03 = new Menu("Coco","https://nccudrink.github.io/drinkmenu/menu/CoCo%E8%8F%9C%E5%96%AE.html");
+		Menu a04 = new Menu("comebuy","https://nccudrink.github.io/drinkmenu/menu/comebuy%E8%8F%9C%E5%96%AE.html");
+		Menu a05 = new Menu("Cow Banana","https://nccudrink.github.io/drinkmenu/menu/CowBanana%E8%8F%9C%E5%96%AE.html");
+		Menu a06 = new Menu("rabbit","https://nccudrink.github.io/drinkmenu/menu/rabbitrabbit.html");
+		Menu a07 = new Menu("TeaTank","https://nccudrink.github.io/drinkmenu/menu/TeaTank%E8%8F%9C%E5%96%AE.html");
+		Menu a08 = new Menu("¤@ªÚ","https://nccudrink.github.io/drinkmenu/menu/%E4%B8%80%E8%8A%B3%E8%8F%9C%E5%96%AE.html");
+		Menu a09 = new Menu("¤Y§@­¹¯ù","https://nccudrink.github.io/drinkmenu/menu/%E4%B8%B8%E4%BD%9C%E9%A3%9F%E8%8C%B6%E8%8F%9C%E5%96%AE.html");
+		Menu a10 = new Menu("¤j­b¤l","https://nccudrink.github.io/drinkmenu/menu/%E5%A4%A7%E8%8B%91%E5%AD%90%E8%8F%9C%E5%96%AE.html");
+		Menu a11 = new Menu("¤Ñ¤¯¯ú¯ù","https://nccudrink.github.io/drinkmenu/menu/%E5%A4%A9%E4%BB%81%E8%8C%97%E8%8C%B6%E8%8F%9C%E5%96%AE.html");
+		Menu a12 = new Menu("¤ô«Ñ¯ù§Ë","https://nccudrink.github.io/drinkmenu/menu/%E6%B0%B4%E5%B7%B7%E8%8C%B6%E5%BC%84%E8%8F%9C%E5%96%AE.html");
+		Menu a13 = new Menu("¥¬µÜ®¦¬õ¯ù","https://nccudrink.github.io/drinkmenu/menu/%E5%B8%83%E8%90%8A%E6%81%A9%E8%8F%9C%E5%96%AE.html");
+		Menu a14 = new Menu("ªi­ô","https://nccudrink.github.io/drinkmenu/menu/%E6%B3%A2%E5%93%A5%E8%8F%9C%E5%96%AE.html");
+		Menu a15 = new Menu("ªá²¢ªG«Ç","https://nccudrink.github.io/drinkmenu/menu/%E8%8A%B1%E7%94%9C%E6%9E%9C%E5%AE%A4%E8%8F%9C%E5%96%AE.html");
+		Menu a16 = new Menu("¬ÃµN¤¦","https://nccudrink.github.io/drinkmenu/menu/%E7%8F%8D%E7%85%AE%E4%B8%B9%E8%8F%9C%E5%96%AE.html");
+		Menu a17 = new Menu("¯ù«F","https://nccudrink.github.io/drinkmenu/menu/%E8%8C%B6%E4%BA%AD%E8%8F%9C%E5%96%AE.html");
+		Menu a18 = new Menu("¯ù´ö·|","https://nccudrink.github.io/drinkmenu/menu/%E8%8C%B6%E6%B9%AF%E6%9C%83%E8%8F%9C%E5%96%AE.html");
+		Menu a19 = new Menu("°^¯ù","https://nccudrink.github.io/drinkmenu/menu/%E8%B2%A2%E8%8C%B6%E8%8F%9C%E5%96%AE.html");
+		Menu a20 = new Menu("°g«È®L","https://nccudrink.github.io/drinkmenu/menu/%E8%BF%B7%E5%AE%A2%E5%A4%8F%E8%8F%9C%E5%96%AE.html");
+		Menu a21 = new Menu("²M¤ß","https://nccudrink.github.io/drinkmenu/menu/%E6%B8%85%E5%BF%83%E8%8F%9C%E5%96%AE.html");
+		Menu a22 = new Menu("¶ê¥ÛÁI¶¼","https://nccudrink.github.io/drinkmenu/menu/%E5%9C%93%E7%9F%B3%E7%A6%AA%E9%A3%B2%E8%8F%9C%E5%96%AE.html");
+		Menu a23 = new Menu("Às¨¤","https://nccudrink.github.io/drinkmenu/menu/%E9%BE%8D%E8%A7%92%E8%8F%9C%E5%96%AE.html");
+		Menu a24 = new Menu("ÅS©ö²ï","https://nccudrink.github.io/drinkmenu/menu/%E9%9C%B2%E6%98%93%E8%8E%8E%E8%8F%9C%E5%96%AE.html");
+		
+		Menu aa06 = new Menu("¨ß¤l","https://nccudrink.github.io/drinkmenu/menu/rabbitrabbit.html");
+		
+		Menu b01 = new Menu("Baronesse","https://nccudrink.github.io/drinkmenu/menu/Baronesse%E8%8F%9C%E5%96%AE.html");
+		Menu b02 = new Menu("¤QªM","https://nccudrink.github.io/drinkmenu/menu/%E5%8D%81%E6%9D%AF%E8%8F%9C%E5%96%AE.html");
+		Menu b03 = new Menu("¤Ñ¤U§GªZ","https://nccudrink.github.io/drinkmenu/menu/%E5%A4%A9%E4%B8%8B%E4%BD%88%E6%AD%A6%E8%8F%9C%E5%96%AE.html");
+		Menu b04 = new Menu("Mika","https://nccudrink.github.io/drinkmenu/menu/Mika%E8%8F%9C%E5%96%AE.html");
+		Menu b05 = new Menu("¤@«~Äõ±Ô","https://nccudrink.github.io/drinkmenu/menu/%E4%B8%80%E5%93%81%E8%98%AD%E6%95%98%E8%8F%9C%E5%96%AE.html");
+		Menu b06 = new Menu("·²¸}«F","https://nccudrink.github.io/drinkmenu/menu/%E6%AD%87%E8%85%B3%E4%BA%AD%E8%8F%9C%E5%96%AE.html");
+
+		Menu c01 = new Menu("BobiiFrutii","https://nccudrink.github.io/drinkmenu/menu/BobiiFrutii%E8%8F%9C%E5%96%AE.html");
+//		Menu c02 = new Menu("","");
+
+		
+		mstore.add(a01);mstore.add(a02);mstore.add(a03);mstore.add(a04);mstore.add(a05);
+		mstore.add(a06);mstore.add(a07);mstore.add(a08);mstore.add(a09);mstore.add(a10);
+		mstore.add(a11);mstore.add(a12);mstore.add(a13);mstore.add(a14);mstore.add(a15);
+		mstore.add(a16);mstore.add(a17);mstore.add(a18);mstore.add(a19);mstore.add(a20);
+		mstore.add(a21);mstore.add(a22);mstore.add(a23);mstore.add(a24);
+		mstore.add(aa06);
+		
+		mstore.add(b01);mstore.add(b02);mstore.add(b03);mstore.add(b04);mstore.add(b05);
+		mstore.add(b06);
+		
+		mstore.add(c01);
