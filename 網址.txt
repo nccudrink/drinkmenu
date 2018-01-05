@@ -33,7 +33,8 @@
 		Menu b06 = new Menu("·²¸}«F","https://nccudrink.github.io/drinkmenu/menu/%E6%AD%87%E8%85%B3%E4%BA%AD%E8%8F%9C%E5%96%AE.html");
 
 		Menu c01 = new Menu("BobiiFrutii","https://nccudrink.github.io/drinkmenu/menu/BobiiFrutii%E8%8F%9C%E5%96%AE.html");
-//		Menu c02 = new Menu("","");
+		Menu c02 = new Menu("¤p½T©¯¬õ¯ù¤û¥¤","https://nccudrink.github.io/drinkmenu/menu/%E5%B0%8F%E7%A2%BA%E5%B9%B8%E7%B4%85%E8%8C%B6%E7%89%9B%E5%A5%B6%E8%8F%9C%E5%96%AE.html");
+		Menu c03 = new Menu("¯ùµú¬K","https://nccudrink.github.io/drinkmenu/menu/%E8%8C%B6%E8%A9%A0%E6%98%A5%E8%8F%9C%E5%96%AE.html");
 
 		
 		mstore.add(a01);mstore.add(a02);mstore.add(a03);mstore.add(a04);mstore.add(a05);
@@ -46,4 +47,4 @@
 		mstore.add(b01);mstore.add(b02);mstore.add(b03);mstore.add(b04);mstore.add(b05);
 		mstore.add(b06);
 		
-		mstore.add(c01);
+		mstore.add(c01);mstore.add(c02);mstore.add(c03);
