@@ -36,6 +36,14 @@
 		Menu c02 = new Menu("¤p½T©¯¬õ¯ù¤û¥¤","https://nccudrink.github.io/drinkmenu/menu/%E5%B0%8F%E7%A2%BA%E5%B9%B8%E7%B4%85%E8%8C%B6%E7%89%9B%E5%A5%B6%E8%8F%9C%E5%96%AE.html");
 		Menu c03 = new Menu("¯ùµú¬K","https://nccudrink.github.io/drinkmenu/menu/%E8%8C%B6%E8%A9%A0%E6%98%A5%E8%8F%9C%E5%96%AE.html");
 
+		Menu d01 = new Menu("Chatuchak Thai Tea","https://nccudrink.github.io/drinkmenu/menu/Chatuchak%20Thai%20Tea%E8%8F%9C%E5%96%AE.html");
+		Menu d02 = new Menu("SOMA","https://nccudrink.github.io/drinkmenu/menu/SOMA%E8%8F%9C%E5%96%AE.html");
+		Menu d03 = new Menu("¤jµs³¯","https://nccudrink.github.io/drinkmenu/menu/%E5%A4%A7%E7%9B%9C%E9%99%B3%E8%8F%9C%E5%96%AE.html");
+		Menu d04 = new Menu("¤ë¸­¬õ¯ù","https://nccudrink.github.io/drinkmenu/menu/%E6%9C%88%E8%91%89%E7%B4%85%E8%8C%B6%E8%8F%9C%E5%96%AE.html");
+		Menu d05 = new Menu("¤ì¤l¤é«C","https://nccudrink.github.io/drinkmenu/menu/%E6%9C%A8%E5%AD%90%E6%97%A5%E9%9D%92%E8%8F%9C%E5%96%AE.html");
+		Menu d06 = new Menu("¨}¨°¦N®É","https://nccudrink.github.io/drinkmenu/menu/%E8%89%AF%E8%BE%B0%E5%90%89%E6%99%82%E8%8F%9C%E5%96%AE.html");
+		Menu d07 = new Menu("¬KªÚ¸¹","https://nccudrink.github.io/drinkmenu/menu/%E6%98%A5%E8%8A%B3%E8%99%9F%E8%8F%9C%E5%96%AE.html");
+		Menu d08 = new Menu("¬ù¿«¬õ¯ù¤½¥q","https://nccudrink.github.io/drinkmenu/menu/%E7%B4%84%E7%BF%B0%E7%B4%85%E8%8C%B6%E5%85%AC%E5%8F%B8%E8%8F%9C%E5%96%AE.html");
 		
 		mstore.add(a01);mstore.add(a02);mstore.add(a03);mstore.add(a04);mstore.add(a05);
 		mstore.add(a06);mstore.add(a07);mstore.add(a08);mstore.add(a09);mstore.add(a10);
@@ -48,3 +56,6 @@
 		mstore.add(b06);
 		
 		mstore.add(c01);mstore.add(c02);mstore.add(c03);
+		
+		mstore.add(d01);mstore.add(d02);mstore.add(d03);mstore.add(d04);mstore.add(d05);
+		mstore.add(d06);mstore.add(d07);mstore.add(d08);
